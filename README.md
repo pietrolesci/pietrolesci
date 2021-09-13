@@ -1,8 +1,10 @@
-Hi! I am Pietro Lesci, a PhD student in Computer Science at Cambridge University
+Hi! 
+
+I am Pietro Lesci, a PhD student in Computer Science at Cambridge University
 working on Natural Language Processing. 
 
 Prior to starting the PhD in October 2021, I have been a senior associate in data science 
-at Bain & Company in Milan, Italy, for almost 2 years. I have a background in economics 
+at Bain & Company for almost 2 years. I have a background in economics 
 (both BSc and MSc) and I slowly transitioned to data science and eventually to research in 
 machine learning (ML) and natural language processing (NLP). I started my journey from economics to ML/data science in 2018. 
 
@@ -26,7 +28,7 @@ platform - the project was completely funded by Twitter. In particular, my focus
 of echo chambers and online abuse.
 
 From March 2020 until the start of the PhD, I have been working as a data scientist in the
-Advanced Analytics Group at [Bain & Company](https://www.bain.com/). There, I had the chance
+Advanced Analytics Group at [Bain & Company](https://www.bain.com/), a strategic consulting firm. There, I had the chance
 to work on many exciting machine learning problems across a variety of industries: telco, finance,
 consumers goods, mining (!), and many others. I had the possibility to contribute to internal Python and R projects
 building libraries and constructing products. And I had the great opportunity to learn how to manage
@@ -37,7 +39,7 @@ during the time spent there.
 
 As of October 2021, I am a PhD student in Computer Science working on Natural Language Processing
 supervised by Prof [Andreas Vlachos](https://andreasvlachos.github.io/). In particular, my research
-focused on meta-learning and active learning methods in NLP.
+focuses on meta-learning and active learning methods in NLP.
 
 
 
