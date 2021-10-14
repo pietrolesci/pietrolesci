@@ -21,6 +21,9 @@ After graduation, I properly entered the the ML/NLP world by working as a resear
 [Bocconi Institute for Data Science and Analytics](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) 
 with Prof [Dirk Hovy](https://dirkhovy.com/) in Milan (Italy). I was a member of the team working to understand,
 explore, and measure the health of conversations on the Twitter platform - the project was completely funded by Twitter.
+As part of my work at Bocconi University, I deployed two machine learning web-apps — [Wordify](https://wordify.unibocconi.it/index)
+and [MACE](https://mace.unibocconi.it/) — that allow researchers
+in other fields (e.g., social sciences, marketing, economics, etc) to easily access NLP tools.
 
 From March 2020 until the start of the PhD, I have been working as a data scientist in the Advanced Analytics Group
 at [Bain & Company](https://www.bain.com/it/), a strategic consulting firm. There, I had the chance to work on many exciting ML/MLOps problems
@@ -29,12 +32,13 @@ programming languages (Python, R, Julia, SQL, Rust), and use-cases (analyses, so
 and pipelines). Being Bain & Company one of the top 3 strategic consulting firms in the world, I had the great opportunity to
 learn the “consultant curriculum”: managing teams, scoping work, and dealing with tight deadlines while attaining the
 highest required quality standards for our clients. 
+I am glad I had the chance to be managed by Dr [Diane Berry](https://www.linkedin.com/in/diane-berry-007/) 
+and [Marc Van Heerden](https://www.linkedin.com/in/marc-van-heerden-b9042818/) during the time spent there.
 
 I believe this is my personal added value: I worked in very diverse environments collaborating with people at different 
 levels of seniority and from different cultures. I always tried to humbly give my best and often proving to be able to 
 fast-learn, adapt, and succeed even in contexts that are not my own. Most importantly, I luckily managed to always leave 
-with more friends than when I arrived. I am glad I had the chance to be managed by Dr [Diane Berry](https://www.linkedin.com/in/diane-berry-007/) 
-and [Marc Van Heerden](https://www.linkedin.com/in/marc-van-heerden-b9042818/) during the time spent there.
+with more friends than when I arrived. 
 
 As of October 2021, I am a PhD student in Computer Science working on Natural Language Processing with
 Prof [Andreas Vlachos](https://andreasvlachos.github.io/). I am interested in few-shot learning for NLP.
