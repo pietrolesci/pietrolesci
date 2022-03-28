@@ -41,6 +41,7 @@ fast-learn, adapt, and succeed even in contexts that are not my own. Most import
 with more friends than when I arrived. 
 
 As of October 2021, I am a PhD student in Computer Science working on Natural Language Processing with
-Prof [Andreas Vlachos](https://andreasvlachos.github.io/). I am interested in few-shot learning for NLP.
+Prof [Andreas Vlachos](https://andreasvlachos.github.io/). I am generally interested in developing and applying 
+active learning and machine teaching methodologies to solve NLP tasks in data-scarse settings.
 
 First of six children, I am a passionate musician and a statistics enthusiast.
