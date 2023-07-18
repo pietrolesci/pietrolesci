@@ -13,7 +13,7 @@ coordinated the expert counterparties from the National Central Banks during its
 meetings. Given my performance, I received a contract extension.
 
 Once back from Frankfurt, I obtained an MSc in Economic and Social Sciences at [Bocconi University](https://www.unibocconi.it/wps/wcm/connect/bocconi/sitopubblico_it/albero+di+navigazione/home/corsi+di+studio/lauree+triennali/economic+and+social+sciences/) in 2019. The
-course was centered on Bayesian methods for computational social sciences and featured many applied econometrics
+course was centred on Bayesian methods for computational social sciences and featured many applied econometrics
 and time-series courses. I wrote my thesis under the supervision of Prof [Sonia Petrone](https://faculty.unibocconi.eu/soniapetrone/). 
 In the thesis, I discuss the statistical interpretation of a new class of algorithms called Neural Processes proposed that very same year.
 
